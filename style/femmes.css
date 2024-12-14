@@ -1,0 +1,42 @@
+nav a{
+    text-decoration: none;
+    margin: 20px;
+    letter-spacing: 2px;
+    color: black;
+    font-weight: bold;
+}
+.box {
+    height: auto;
+    display: flex;
+    
+}
+.box {
+    height: auto;
+    width: 250px;
+    margin: 32px;
+}
+.box img {
+    border-radius: 8px;
+    padding: 10px;
+   
+
+}
+.head {
+    height: auto;
+    display: flex;
+    
+}
+.head {
+    height: auto;
+    width: 250px;
+    margin: 32px;
+}
+.head img {
+    border-radius: 8px;
+    padding: 10px;
+}
+.box img:hover{
+    transform: scale(1.3) translateY(-5px);
+    border-radius: 30%;
+}
+

@@ -1,0 +1,36 @@
+nav a{
+    text-decoration: none;
+    margin: 20px;
+    letter-spacing: 2px;
+    color: black;
+    font-weight: bold;
+}
+.lang {
+    height: auto;
+    display: flex;
+    
+}
+.lang {
+    height: auto;
+    width: 250px;
+    margin: 32px;
+}
+.lang img {
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.montres{
+    height: auto;
+    display: flex;
+    
+}
+.montres {
+    height: auto;
+    width: 250px;
+    margin: 32px;
+}
+.montres img {
+    border-radius: 8px;
+    padding: 10px;
+}
