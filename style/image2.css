@@ -8,35 +8,17 @@ nav a{
 .col-3{
     font-size: 22px;
   }
-.box {
+.lang {
     height: auto;
     display: flex;
     
 }
-.box {
+.lang {
     height: auto;
     width: 250px;
     margin: 32px;
 }
-.box img {
-    border-radius: 8px;
-    padding: 10px;
-   
-
-}
-.head {
-    height: auto;
-    display: flex;
-    
-}
-.head {
-    height: auto;
-    width: 250px;
-    margin: 32px;
-}
-.head img {
+.lang img {
     border-radius: 8px;
     padding: 10px;
 }
-
-

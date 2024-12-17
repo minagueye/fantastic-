@@ -5,6 +5,9 @@ nav a{
     color: black;
     font-weight: bold;
 }
+.col-3{
+    font-size: 22px;
+  }
 .lang {
     height: auto;
     display: flex;
@@ -33,4 +36,7 @@ nav a{
 .montres img {
     border-radius: 8px;
     padding: 10px;
+}
+.CONTENT{
+    border-radius: 22px;
 }

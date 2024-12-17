@@ -5,19 +5,25 @@ nav a{
     color: black;
     font-weight: bold;
 }
+.col-3{
+  font-size: 22px;
+}
 
 .categorie {
     height: auto;
     display: flex;
+    align-items: center;
     
 }
 .mode {
     height: auto;
-    width: 250px;
-    margin: 32px;
+    width: 300px;
+    margin: 34px;
+   
 }
 .mode img {
     border-radius: 8px;
+   
 }
 .mode p {
     text-align: center;
